@@ -99,8 +99,8 @@ For this tutorial we will begin by installing the latest version of cura, which 
 
 <h2 id="add_sv06_plus"> + Adding the Sovol SV06 Plus Printer Profile</h2>
 
-First off, I want to say thank you to the reddit user: <a href="https://www.reddit.com/user/vgergo/"  target="_blank">vgergo</a> for providing the files and the original instruction. <a href="https://www.reddit.com/r/Sovol/comments/12ycn1g/tip_this_is_how_you_can_import_sovol_slicers_sv06/" target="_blank">Original Reddit Post</a> - He made a detailed tutorial to better understand Cura and Profiles as well.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VULBzpPf0Yg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+First off, I want to say thank you to the reddit user: <a href="https://www.reddit.com/user/vgergo/"  target="_blank">vgergo</a> for providing the files and the original instruction. <a href="https://www.reddit.com/r/Sovol/comments/12ycn1g/tip_this_is_how_you_can_import_sovol_slicers_sv06/" target="_blank">Original Reddit Post</a> - He made a [detailed tutorial](https://www.youtube.com/embed/VULBzpPf0Yg) to better understand Cura and Profiles as well.
+
 
 <hr />
 

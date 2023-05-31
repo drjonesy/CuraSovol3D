@@ -1,13 +1,13 @@
 # Cura Slicer for Sovol 3D Printers
 
-<img src="./cura-logo.png" style="height: 50px;" />
-<img src="./sovol-logo.png" style="height: 50px;" />
+<img src="./cura-logo.png" style="max-height: 50px;" />
+<img src="./sovol-logo.png" style="max-height: 50px;" />
 
 ### Cura Version 5 + Sovol SV06 Plus
 
 Official Website: https://sovol3d.com/products/sovol-sv06-plus
 
-<img src="./images/sovol-sv06-plus-printer.png" style="height: 300px;"/>
+<img src="./images/sovol-sv06-plus-printer.png" style="max-height: 300px;"/>
 
 
 #### [Tested] on The Following Computer Systems
@@ -16,7 +16,7 @@ Official Website: https://sovol3d.com/products/sovol-sv06-plus
 - [ ] Windows 10
 - [ ] Windows 11
 
-### <img src="./images/apple-logo.png" style="height: 20px;" /> Mac Setup and Install (Tutorial)
+### <img src="./images/apple-logo.png" style="max-height: 20px;" /> Mac Setup and Install (Tutorial)
 
 For this tutorial we will begin by installing the latest version of cura, which is version 5.
 
@@ -50,7 +50,7 @@ For this tutorial we will begin by installing the latest version of cura, which 
 
 9. You may see a progress bar, depending on the speed of your computer.
 
-<img src="./images/ultimaker-cura-copying-to-applications.png" style="height: 100px;" />
+<img src="./images/ultimaker-cura-copying-to-applications.png" style="max-height: 100px;" />
 
 10. Close the installation pop-up windows from step 8.
 
@@ -68,21 +68,21 @@ For this tutorial we will begin by installing the latest version of cura, which 
 
 16. Finally, Ultimaker will ask if you want to **[Skip]**, **[Create a free Ultimaker Account]**, or **[Sign In]**. For this tutorial we will be selecting **[Skip]** for now.
 
-<img src="./images/sign-into-ultimaker.png" style="height: 400px;" />
+<img src="./images/sign-into-ultimaker.png" style="max-height: 400px;" />
 
 17. Next, it will ask you to **Add Printer**. Since we haven't imported the profile configuration file for the **SVO6 Plus**, we will just create a temporary custom printer.
 
 18. Select: **Non UltiMaker Printer**
 
-<img src="./images/select-non-ultimaker-printer.png" style="height:400px;" />
+<img src="./images/select-non-ultimaker-printer.png" style="max-height:400px;" />
 
 19. This time, select: **Add a non-networked printer**
 
-<img src="./images/add-a-non-networked-printer.png" style="height:200px;" />
+<img src="./images/add-a-non-networked-printer.png" style="max-height:200px;" />
 
 20. Next, you will see a list of brands with **UltiMaker** selected. Scroll-down to the next brand which is **Custom** and select: **Custom FFF**
 
-<img src="./images/select-custom-fff-printer.png" style="height: 500px;" />
+<img src="./images/select-custom-fff-printer.png" style="max-height: 500px;" />
 
 21. Don't name this printer because we will be removing it once we have added the SV06 Plus printer. For now, click: **[Next]**
 
@@ -123,7 +123,7 @@ meshes     > sovol_300_300_platform.obj
 
 5. A drop-down will appear. Select: **Show Configuration Folder**
 
-<img src="./images/ultimaker-cura-show-config-folder.png" style="height: 200px;"/>
+<img src="./images/ultimaker-cura-show-config-folder.png" style="max-height: 200px;"/>
 
 6. You should now see the directory where all your Cura configuration files are stored.
 > **!!! DONT DELETE ANYTHING - UNLESS YOU WAN TO RE-INSTALL CURA AGAIN !!!**

@@ -12,9 +12,9 @@ Official Website: https://sovol3d.com/products/sovol-sv06-plus
 
 #### [Tested] on The Following Computer Systems
 
-- [ ] MacOs Ventura 13.3,  Apple M2
-- [ ] Windows 10
-- [ ] Windows 11
+- [x] MacOs Ventura 13.3,  Apple M2
+- [x] Windows 10
+- [x] Windows 11
 
 ### <img src="./images/apple-logo.png" style="max-height: 20px;" /> Mac Setup and Install (Tutorial)
 

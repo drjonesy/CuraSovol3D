@@ -171,3 +171,29 @@ COPY  '/meshes' to '/5.3/meshes'
 > _Note: we weren't able to display the Sovol logo on the back plate of the printing platform in Cura... on a Apple Silicon M2_
 
 <img src="./images/ultimaker-cura-sovol-sv06-plus-profile-working.png" style="" />
+
+
+# Testing the Cura Software Configuration
+
+Tried to modify the values displayed for the infill pattern to include an icon. Initial tests using the apple glyphicons was successful. These findings confirmed that the only way to go about creating custom icons that represented the text would be to create a custom .ttf font file using font glyphicons. Current attempts have not been successful and further study into the software is necessary.
+
+```json
+"infill_pattern": {
+    "options": {
+        "grid": "Grid",
+        "lines": "Lines",
+        "triangles": "Triangles",
+        "trihexagon": "Tri-Hexagon",
+        "cubic": "Cubic",
+        "cubicsubdiv": "Cubic Subdivision",
+        "tetrahedral": "Octet",
+        "quarter_cubic": "Quarter Cubic",
+        "concentric": "Concentric",
+        "zigzag": "Zig Zag",
+        "cross": "Cross",
+        "cross_3d": "Cross 3D",
+        "gyroid": "Gyroid",
+        "lightning": "Lightning"
+    },
+},
+```

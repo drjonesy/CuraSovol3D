@@ -1,13 +1,13 @@
 # Cura Slicer for Sovol 3D Printers
 
 <img src="./cura-logo.png" height="50" />
-<img src="./sovol-logo.png" style="max-height: 50px;" />
+<img src="./sovol-logo.png" height="50" />
 
 ### Cura Version 5 + Sovol SV06 Plus
 
 Official Website: https://sovol3d.com/products/sovol-sv06-plus
 
-<img src="./images/sovol-sv06-plus-printer.png" style="max-height: 300px;"/>
+<img src="./images/sovol-sv06-plus-printer.png" height="300" />
 
 
 #### [Tested] on The Following Computer Systems
@@ -16,7 +16,7 @@ Official Website: https://sovol3d.com/products/sovol-sv06-plus
 - [x] Windows 10
 - [x] Windows 11
 
-### <img src="./images/apple-logo.png" style="max-height: 20px;" /> Mac Setup and Install (Tutorial)
+### <img src="./images/apple-logo.png" height="20" /> Mac Setup and Install (Tutorial)
 
 For this tutorial we will begin by installing the latest version of cura, which is version 5.
 
@@ -26,7 +26,7 @@ For this tutorial we will begin by installing the latest version of cura, which 
 <h3 id="install_cura">Install Cura</h3>
 
 1. Go to: https://ultimaker.com/
-2. In the navigation hover over: <span style="color: blue;">Software</span> and select: <span style="border-bottom: solid 4px #00BBA1;">UltiMaker Cura</span>
+2. In the navigation hover over: <span color="blue">Software</span> and select: UltiMaker Cura
 
 <img src="./images/ultimaker-select-cura-software-link.png" style=""/>
 

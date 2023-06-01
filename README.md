@@ -1,7 +1,6 @@
 # Cura Slicer for Sovol 3D Printers
 
-<img src="./cura-logo.png" height="50" />
-<img src="./sovol-logo.png" height="50" />
+<img src="./cura-logo.png" height="50" /> <img src="./sovol-logo.png" height="50" />
 
 ### Cura Version 5 + Sovol SV06 Plus
 

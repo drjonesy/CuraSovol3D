@@ -25,7 +25,7 @@ For this tutorial we will begin by installing the latest version of cura, which 
 <h3 id="install_cura">Install Cura</h3>
 
 1. Go to: https://ultimaker.com/
-2. In the navigation hover over: <span color="blue">Software</span> and select: UltiMaker Cura
+2. In the navigation hover over: **Software** and select: `UltiMaker Cura`
 
 <img src="./images/ultimaker-select-cura-software-link.png" style=""/>
 
@@ -49,7 +49,7 @@ For this tutorial we will begin by installing the latest version of cura, which 
 
 9. You may see a progress bar, depending on the speed of your computer.
 
-<img src="./images/ultimaker-cura-copying-to-applications.png" style="max-height: 100px;" />
+<img src="./images/ultimaker-cura-copying-to-applications.png" height="100" />
 
 10. Close the installation pop-up windows from step 8.
 
@@ -67,17 +67,17 @@ For this tutorial we will begin by installing the latest version of cura, which 
 
 16. Finally, Ultimaker will ask if you want to **[Skip]**, **[Create a free Ultimaker Account]**, or **[Sign In]**. For this tutorial we will be selecting **[Skip]** for now.
 
-<img src="./images/sign-into-ultimaker.png" style="max-height: 400px;" />
+<img src="./images/sign-into-ultimaker.png" height="400" />
 
 17. Next, it will ask you to **Add Printer**. Since we haven't imported the profile configuration file for the **SVO6 Plus**, we will just create a temporary custom printer.
 
 18. Select: **Non UltiMaker Printer**
 
-<img src="./images/select-non-ultimaker-printer.png" style="max-height:400px;" />
+<img src="./images/select-non-ultimaker-printer.png" height="400" />
 
 19. This time, select: **Add a non-networked printer**
 
-<img src="./images/add-a-non-networked-printer.png" style="max-height:200px;" />
+<img src="./images/add-a-non-networked-printer.png" height="200" />
 
 20. Next, you will see a list of brands with **UltiMaker** selected. Scroll-down to the next brand which is **Custom** and select: **Custom FFF**
 

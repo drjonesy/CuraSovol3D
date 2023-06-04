@@ -107,7 +107,7 @@ First off, I want to say thank you to the reddit user: <a href="https://www.redd
 
 For Apple/Mac use the following step-by-step guide.
 
-1. Download the following zip folder: [Sovol SV06 Plus Configuration Files.zip](./sovol-SV06-plus-config_files.zip)
+1. Download the following zip folder: [Sovol SV06 Plus Configuration Files.zip](sovol-SV06-plus-config_files.zip)
 
 2. Now extract/unzip the folder. The extracted folder should contain the following folders and files.
 
